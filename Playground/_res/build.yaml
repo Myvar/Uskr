@@ -1,0 +1,3 @@
+gcc-root:  'C:\MinGW\bin\'
+qemu-root: 'C:\Program Files\qemu\'
+nasm-exe: 'C:\Users\Emile\AppData\Local\bin\NASM'

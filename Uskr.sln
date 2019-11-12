@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Uskr", "Uskr\Uskr.csproj", "{1D6E8C1F-78B3-422F-93C5-A4FE27771FF1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Playground", "Playground\Playground.csproj", "{FAFEAC0D-210E-4484-B9FB-265B1077DAA5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1D6E8C1F-78B3-422F-93C5-A4FE27771FF1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1D6E8C1F-78B3-422F-93C5-A4FE27771FF1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1D6E8C1F-78B3-422F-93C5-A4FE27771FF1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1D6E8C1F-78B3-422F-93C5-A4FE27771FF1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FAFEAC0D-210E-4484-B9FB-265B1077DAA5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FAFEAC0D-210E-4484-B9FB-265B1077DAA5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FAFEAC0D-210E-4484-B9FB-265B1077DAA5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FAFEAC0D-210E-4484-B9FB-265B1077DAA5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
